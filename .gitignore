@@ -22,3 +22,4 @@ yarn-error.log*
 /build
 /node_modules
 /public
+package-lock.json
